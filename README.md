@@ -7,6 +7,7 @@ The basics of the bayesian approach is that the parameters of a model are not po
 - Apply Bayes rule iteratively, for each iteration take the posterior of the previous iteration as your new prior
 The Bayes rule is:
 - <img src="https://latex.codecogs.com/gif.latex?P(A | B) = \frac{P(B | A) P(A)}{P(B)} " />
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
 Its terms are:
 - P(A) is the prior
 - P(B | A) is the likelihood

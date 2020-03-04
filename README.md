@@ -7,6 +7,7 @@ The basics of the bayesian approach is that the parameters of a model are not po
 - Apply Bayes rule iteratively, for each iteration take the posterior of the previous iteration as your new prior
 The Bayes rule is:  
 P(A | B) = P(B | A) P(A) / P(B)  
+  
 Its terms are:
 - P(A) is the prior
 - P(B | A) is the likelihood
